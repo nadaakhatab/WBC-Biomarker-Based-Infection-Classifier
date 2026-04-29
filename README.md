@@ -2,7 +2,7 @@
 
 ## 1. Problem Definition
 
-We built a machine learning classification model that predicts patient condition based on blood biomarkers.
+I built a machine learning classification model that predicts patient condition based on blood biomarkers.
 
 ### Target Classes
 - Bacterial Infection  
@@ -13,7 +13,7 @@ We built a machine learning classification model that predicts patient condition
 
 ## 2. Medical Background
 
-### What are we modeling?
+### What am i modeling?
 
 We use white blood cell (WBC) biomarkers as key indicators of immune system activity.
 
